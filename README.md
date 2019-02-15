@@ -7,3 +7,5 @@
 * git add filnamn  
 * git comit -m "en förklarande text av vad jag gör"  
 * git push
+
+![Image](Jorgen.jpg)
